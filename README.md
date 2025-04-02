@@ -1,0 +1,2 @@
+# svghoster
+Host svgs
